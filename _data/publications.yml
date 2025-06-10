@@ -1,15 +1,15 @@
 - title: "Surface bubble lifetime in the presence of a turbulent air flow, and the effect of surface layer renewal"
   image: "assets/img/bubbles_vk.jpg"
   description: "Investigations of surface bubble drainage and lifetime when the air above the water surface is turbulent, with different surfactant concentrations and salts. Precisely controlling the experimental conditions, we are able to predict the evolution of the bubble lifetime with the Reynolds number in the absence of impurities and observe a transition between regimes in the case with salt added."
-  reference: "Aurégan, T., & Deike, L. (2024)."
+  reference: "Aurégan, T., & Deike, L. (2025)."
   url: https://arxiv.org/abs/2505.04819
 
 
 - title: "Drainage and lifetime of thin liquid films: the role of salinity and convective evaporation"
   image: "assets/img/nacl176g_illustration.png"
   description: "Experimental study of thin liquid films in the presence of salt. We show that the drainage is unaffected by the salinity of the solution or the humidity of the air surrounding the film while the lifetime is controlled by evaporative rate."
-  reference: "Aurégan, T., & Deike, L. (2024)."
-  url: https://arxiv.org/abs/2411.03908
+  reference: "Aurégan, T., & Deike, L. (2025). **Journal of Fluid Mechanics**, 1012, A18."
+  url: https://doi.org/10.1017/jfm.2025.10175
 
 
 - title: "Improving propulsive efficiency using bio-inspired intermittent locomotion"
