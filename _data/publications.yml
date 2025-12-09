@@ -16,7 +16,7 @@
   image: "assets/img/bubbles_vk.jpg"
   description: "Investigations of surface bubble drainage and lifetime when the air above the water surface is turbulent, with different surfactant concentrations and salts. Precisely controlling the experimental conditions, we are able to predict the evolution of the bubble lifetime with the Reynolds number in the absence of impurities and observe a transition between regimes in the case with salt added."
   reference: "Aurégan, T., & Deike, L. (2025)."
-  url: https://arxiv.org/abs/2505.04819
+  url: https://doi.org/10.1017/jfm.2025.10885
 
 
 - title: "Drainage and lifetime of thin liquid films: the role of salinity and convective evaporation"
