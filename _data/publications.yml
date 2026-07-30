@@ -1,15 +1,15 @@
 - title: "Jet drop production from bubbles with neighbors"
   image: "assets/img/6neigh.gif"
   description: "Experiments on the production of drops by collapsing bubbles surrounded by other neighboring bubbles. The presence of neighbors significantly reduces the size of the jet drops."
-  reference: "Aurégan, T., Daniel, N., Mazzatenta, M., & Deike, L. (2025)"
-  url: https://doi.org/10.48550/arXiv.2511.00281
+  reference: "Aurégan, T., Daniel, N., Mazzatenta, M., & Deike, L. (2026). **Physical Review Fluids**, 11(4), 043601."
+  url: https://doi.org/10.1103/7ygz-2s6s
 
 
 - title: "Size Amplification of Jet Drops due to Insoluble Surfactants"
   image: "assets/img/jetdrop_wide.png"
   description: "Collaborative experimental and numerical study on the jet drops produced by the collapse of a bubble covered with insoluble surfactants. J.E. and T.A. contributed equally to this work."
-  reference: "Eshima, J., Aurégan, T., Farsoiya, P. K., Popinet, S., Stone, H., & Deike, L. (2025)"
-  url: https://doi.org/10.48550/arXiv.2507.09189
+  reference: "Eshima, J., Aurégan, T., Farsoiya, P. K., Popinet, S., Stone, H., & Deike, L. (2025). **Physical Review Fluids**, 10(12), 123604."
+  url: https://doi.org/10.1103/t9k3-dqyc
 
 
 - title: "Surface bubble lifetime in the presence of a turbulent air flow, and the effect of surface layer renewal"
