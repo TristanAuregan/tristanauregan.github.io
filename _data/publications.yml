@@ -1,3 +1,10 @@
+- title: "Solubility Enhanced Surfactant-Induced Flow in Air-Liquid-Air Sheets"
+  image: "assets/img/savart_sheet.png"
+  description: "Experiments and theory on the spreading of surfactants in air-liquid-air sheets, highlighting the role of solubility in the dynamics."
+  reference: "Eshima, J., Aurégan, T., Villermaux, E., Stone, H. A., & Deike, L. (2026). **Physical Review Letters**, 137(14), 144001."
+  url: https://doi.org/10.1103/rbyz-h78n
+
+
 - title: "Jet drop production from bubbles with neighbors"
   image: "assets/img/6neigh.gif"
   description: "Experiments on the production of drops by collapsing bubbles surrounded by other neighboring bubbles. The presence of neighbors significantly reduces the size of the jet drops."
@@ -32,6 +39,7 @@
   reference: "Aurégan, T., Lemoine, M., Thiria, B., & Courrech du Pont, S. (2024). **Journal of the Royal Society Interface**, 22:20240624"
   url: https://doi.org/10.1098/rsif.2024.0624
 
+
 - title: "Shape reconfiguration for underwater propeller efficiency improvement"
   image: "assets/img/chordwise-hero.png"
   description: "How a propeller with flexible blades can passively adapt to a change of external conditions to remain optimally efficient. With a combination of experiments and scaling law, we demonstrate how this techhnology can be implemented."
@@ -44,6 +52,7 @@
   description: "Small scale experiments with a propeller with fully flexible blades. We record and explain the non-linear deformations at tip of the blades."
   reference: "Aurégan, T., Thiria, B., & Courrech du Pont, S. (2023). **Physical Review Fluids**, 8(4), 044401."
   url: https://doi.org/10.1103/PhysRevFluids.8.044401
+
 
 - title: "Flow past a sphere translating along the axis of a rotating fluid: revisiting numerically Maxworthy's experiments"
   image: "assets/img/sphere-hero.gif"
