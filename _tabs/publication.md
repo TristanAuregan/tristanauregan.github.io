@@ -27,6 +27,10 @@ icon: fa-solid fa-newspaper
         display: inline;
         margin: 0;
         color: var(--text-color);
+        overflow: visible !important;
+        display: inline !important;
+        -webkit-line-clamp: unset !important;
+        line-clamp: unset !important;
     }
     
     /* Add styles for clickable card */
