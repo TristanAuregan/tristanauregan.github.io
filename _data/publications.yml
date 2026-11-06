@@ -1,3 +1,9 @@
+- title: "Fast and slow surfactants in turbulence-driven bubble breakup"
+  image: "assets/img/breakup.jpeg"
+  description: "Experiments and theory on the spreading of surfactants in air-liquid-air sheets, highlighting the role of solubility in the dynamics."
+  reference: "Wu, Z., Aurégan, T., & Deike, L. (2026). **Journal of Fluid Mechanics**, 1045, A43."
+  url: https://doi.org/10.1017/jfm.2026.12135 
+  
 - title: "Solubility Enhanced Surfactant-Induced Flow in Air-Liquid-Air Sheets"
   image: "assets/img/savart_sheet.png"
   description: "Experiments and theory on the spreading of surfactants in air-liquid-air sheets, highlighting the role of solubility in the dynamics."
